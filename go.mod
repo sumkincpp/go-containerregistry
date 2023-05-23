@@ -4,9 +4,9 @@ go 1.18
 
 require (
 	github.com/containerd/stargz-snapshotter/estargz v0.14.3
-	github.com/docker/cli v24.0.0+incompatible
+	github.com/docker/cli v24.0.1+incompatible
 	github.com/docker/distribution v2.8.2+incompatible
-	github.com/docker/docker v24.0.0+incompatible
+	github.com/docker/docker v24.0.1+incompatible
 	github.com/google/go-cmp v0.5.9
 	github.com/klauspost/compress v1.16.5
 	github.com/mitchellh/go-homedir v1.1.0
@@ -33,7 +33,7 @@ require (
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/sirupsen/logrus v1.9.1 // indirect
+	github.com/sirupsen/logrus v1.9.2 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/vbatts/tar-split v0.11.3 // indirect
 	golang.org/x/mod v0.10.0 // indirect
